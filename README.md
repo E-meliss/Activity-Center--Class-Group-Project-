@@ -5,6 +5,7 @@ It is a group project for CTIS221 class.
 <br>
 <br>
 Users can:
+<br>
 -Select activity classes, 
 <br>
 -Select instructors,
